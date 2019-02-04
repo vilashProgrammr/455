@@ -30,7 +30,7 @@ function delete_id(id)
 	{
 		window.location.href='index.php?delete_id='+id;
 	}
-}
+} //vilash
 </script>
 </head>
 <body>
