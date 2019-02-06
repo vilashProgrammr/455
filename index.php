@@ -3,7 +3,7 @@ include_once 'dbconfig.php';
 
 // delete condition
 if(isset($_GET['delete_id']))
-{
+{//vilash
 	//delete logic here
 
 }
